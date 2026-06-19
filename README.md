@@ -2,7 +2,9 @@
 
 ✨ Curious Designer | Creative Thinker | Lifelong Learner
 
-I enjoy exploring new ideas, creating meaningful experiences, and continuously learning along the way. My interests span design, technology, and problem-solving.
+I enjoy exploring new ideas, creating meaningful experiences, and continuously learning along the way. 
+
+My interests span design, technology, and problem-solving.
 
 ## 🌱 Currently
 - Learning and growing every day
