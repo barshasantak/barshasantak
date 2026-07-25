@@ -21,6 +21,7 @@ My interests span design, technology, and problem-solving.
 Feel free to explore my repositories and follow my journey!
 
 ---
+
 *"Stay curious, keep creating."*
 
 
