@@ -6,6 +6,8 @@ I enjoy exploring new ideas, creating meaningful experiences, and continuously l
 
 My interests span design, technology, and problem-solving.
 
+Checkout the desktop companions for MacOS: https://barshasantak.github.io/desktop/
+
 ## 🌱 Currently
 - Learning and growing every day
 - Exploring design and technology
