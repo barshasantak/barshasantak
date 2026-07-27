@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Barsha
+## Hi there 👋, I'm Barsha
 
 ✨ Curious Designer | Creative Thinker | Lifelong Learner
 
@@ -6,7 +6,7 @@ I enjoy exploring new ideas, creating meaningful experiences, and continuously l
 
 My interests span design, technology, and problem-solving.
 
-Checkout the desktop companions for MacOS: https://barshasantak.github.io/desktop/
+Checkout the desktop companions Felix and Rover for MacOS: https://barshasantak.github.io/desktop/
 
 ## 🌱 Currently
 - Learning and growing every day
@@ -21,6 +21,7 @@ Checkout the desktop companions for MacOS: https://barshasantak.github.io/deskto
 
 ## 📫 Connect
 Feel free to explore my repositories and follow my journey!
+
 
 ---
 
