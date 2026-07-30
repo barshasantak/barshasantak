@@ -8,10 +8,14 @@ My interests span design, technology, and problem-solving.
 
 Checkout the desktop companions Felix 🐱 and Rover 🐶 for MacOS: https://barshasantak.github.io/desktop/
 
+<br>
+
 ## 🌱 Currently
 - Learning and growing every day
 - Exploring design and technology
 - Building creative projects
+
+<br>
 
 ## 💡 Interests
 - User Experience (UX)
@@ -19,9 +23,12 @@ Checkout the desktop companions Felix 🐱 and Rover 🐶 for MacOS: https://bar
 - Technology & Innovation
 - Creative Problem Solving
 
+<br>
+
 ## 📫 Connect
 Feel free to explore my repositories and follow my journey!
 
+<br>
 
 ---
 
