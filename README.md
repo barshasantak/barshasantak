@@ -6,7 +6,7 @@ I enjoy exploring new ideas, creating meaningful experiences, and continuously l
 
 My interests span design, technology, and problem-solving.
 
-🐾 Checkout the desktop companions Felix 🐱 and Rover 🐶 for MacOS: https://barshasantak.github.io/desktop/
+🐾 Checkout the desktop companions Felix 🐱 and Rover 🐶 for MacOS: [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/){:target="_blank"}
 
 <br>
 
