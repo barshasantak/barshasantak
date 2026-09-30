@@ -6,7 +6,17 @@ I enjoy exploring new ideas, creating meaningful experiences, and continuously l
 
 My interests span design, technology, and problem-solving.
 
-🐾 Checkout the desktop companions Felix 🐱 and Rover 🐶 for MacOS: [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+### 🍎 Checkout these apps for Mac on App Store
+
+Desktop Companions for MacOS 🐶 🐱 
+ 
+[https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+
+F1-Gantry 🏎️ 🏎️
+
+[https://barshasantak.github.io/f1-gantry/](https://barshasantak.github.io/f1-gantry/)
+ 
+Now available on App Store for MacOS 💻
 
 <br>
 
