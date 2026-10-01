@@ -20,14 +20,14 @@ Now available on App Store for MacOS 💻
 
 <br>
 
-## 🌱 Currently
+### 🌱 Currently
 - Learning and growing every day
 - Exploring design and technology
 - Building creative projects
 
 <br>
 
-## 💡 Interests
+### 💡 Interests
 - User Experience (UX)
 - Product Design
 - Technology & Innovation
@@ -35,7 +35,7 @@ Now available on App Store for MacOS 💻
 
 <br>
 
-## 📫 Connect
+### 📫 Connect
 Feel free to explore my repositories and follow my journey!
 
 <br>
