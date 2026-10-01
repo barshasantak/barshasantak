@@ -18,14 +18,10 @@ F1-Gantry 🏎️ 🏎️
  
 Now available on App Store for MacOS 💻
 
-<br>
-
 ### 🌱 Currently
 - Learning and growing every day
 - Exploring design and technology
 - Building creative projects
-
-<br>
 
 ### 💡 Interests
 - User Experience (UX)
@@ -33,14 +29,8 @@ Now available on App Store for MacOS 💻
 - Technology & Innovation
 - Creative Problem Solving
 
-<br>
-
 ### 📫 Connect
 Feel free to explore my repositories and follow my journey!
-
-<br>
-
----
 
 ### 🐍 My Contributions
 
@@ -50,7 +40,7 @@ Feel free to explore my repositories and follow my journey!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barshasantak/barshasantak/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<br>
 *"Stay curious, keep creating."*
 
 
