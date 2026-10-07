@@ -6,17 +6,12 @@ I enjoy exploring new ideas, creating meaningful experiences, and continuously l
 
 My interests span design, technology, and problem-solving.
 
+
 ### 🍎 Checkout these apps for Mac on App Store
-
-Desktop Companions for MacOS 🐶 🐱 
  
-[https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+[https://barshasantak.github.io/macapps/](https://barshasantak.github.io/macapps/)
 
-F1-Gantry 🏎️ 🏎️
-
-[https://barshasantak.github.io/f1-gantry/](https://barshasantak.github.io/f1-gantry/)
- 
-Now available on App Store for MacOS 💻
+Crafted exclusively for MacOS 💻
 
 ### 🌱 Currently
 - Learning and growing every day
